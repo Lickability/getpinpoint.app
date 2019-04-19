@@ -60,12 +60,12 @@ body_background_color                     : "ffffff"
 
 link_color                                : "#eb652f"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#000000"
+app_price_color                           : "#000000"
+app_description_color                     : "#000000"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#eb652f"
+feature_title_color                       : "#eb652f"
+feature_text_color                        : "#000000"
 
 feature_icons_foreground_color            : "#ffffff"
 feature_icons_background_color            : "#eb652f"
