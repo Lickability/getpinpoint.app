@@ -32,11 +32,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Sail through your screenshots
-    description                           : See all the screenshots you've ever taken, ready to be marked up with Pinpoint. And when you're done, ditch the original screenshot so it's not clogging up your photo library!
+    description                           : See all the screenshots you've ever taken, ready to be marked up with Pinpoint.
     fontawesome_icon_name                 : images
 
   - title                                 : Simple by design
-    description                           : Use Pinpoint's markup tools to point stuff out, blur out your business, or jot down thoughts before sharing your finished screenshot masterpiece with your friends (or enemies).
+    description                           : Use Pinpoint's markup tools to point stuff out, blur out your business, or jot down thoughts before sharing your finished masterpiece.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Make it custom
